@@ -1,5 +1,11 @@
 # 🏥 Medical History Knowledge Graph
 
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 > *Intelligent Healthcare Data Management Platform powered by Semantic Web & AI*
 
 A comprehensive medical history management system that leverages **Knowledge Graphs**, **Semantic Web Technologies**, and **AI** to provide healthcare professionals with actionable insights from patient data.
@@ -279,7 +285,13 @@ npm run test
 
 ## 📄 License
 
-[License information to be added]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ---
 
