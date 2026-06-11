@@ -304,9 +304,9 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## 📞 Contact
 
 For business inquiries, partnerships, or demonstrations:
-- Email: [contact information]
-- Website: [website]
-- LinkedIn: [linkedin profile]
+- Email: kaelloureiro@gmail.com  
+- Website: [future]
+- LinkedIn: [[linkedin profile](https://www.linkedin.com/in/kael-loureiro-schossler-de-s%C3%A1-7b2096232)]
 
 ---
 
@@ -323,7 +323,7 @@ Built with:
 
 <div align="center">
   
-**⭐ Star this repo if you find it useful! ⭐**
+**⭐ Contact me if you find it useful! ⭐**
 
 *Transforming Healthcare Data into Knowledge*
 
